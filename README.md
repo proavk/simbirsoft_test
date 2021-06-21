@@ -1,3 +1,8 @@
+# Используемые компоненты
+- [v-menu](https://v2.vuetifyjs.com/en/components/menus/)
+- [v-calendar](https://v2.vuetifyjs.com/ru/components/calendars/)
+- [v-btn](https://v2.vuetifyjs.com/en/components/buttons/)
+
 # my-app
 
 ## Project setup
